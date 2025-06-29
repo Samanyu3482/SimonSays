@@ -30,12 +30,7 @@ You can play the game by cloning the repo in you local OS as it's not hosted cur
 
 ---
 
-# Folder Structure
 
-simon-says/
-├── index.html
-├── style.css
-└── script.js
 
 
 MADE BY SAMANYU GAUTAM WITH ❤️ LOVE
